@@ -1,0 +1,5 @@
+E:\Workspace\NTH\NAF\Production\CustomFramework\CustomFramework\bin\Debug\CustomFramework.dll
+E:\Workspace\NTH\NAF\Production\CustomFramework\CustomFramework\bin\Debug\CustomFramework.pdb
+E:\Workspace\NTH\NAF\Production\CustomFramework\CustomFramework\obj\Debug\CustomFramework.dll
+E:\Workspace\NTH\NAF\Production\CustomFramework\CustomFramework\obj\Debug\CustomFramework.pdb
+E:\Workspace\NTH\NAF\Production\CustomFramework\CustomFramework\obj\Debug\CustomFramework.csprojResolveAssemblyReference.cache
